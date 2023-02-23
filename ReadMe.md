@@ -1,3 +1,6 @@
+
+ALL ABOUT ME\
+
 # 💫 About Me:
 Ask me about: Javascript, Typescript, React
 
